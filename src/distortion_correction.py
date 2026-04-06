@@ -14,7 +14,7 @@ dist_coeffs = np.array([
 ], dtype=np.float32)
 
 # ===== 입력 / 출력 경로 =====
-input_image_path = "data/selected/frame_63.jpg"
+input_image_path = "data/selected/frame_04.jpg"
 output_dir = "data/output"
 os.makedirs(output_dir, exist_ok=True)
 
