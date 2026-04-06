@@ -1,0 +1,10 @@
+=== Calibration Result ===
+RMS Reprojection Error: 0.6887958376694803
+
+Camera Matrix:
+[[970.199798   0.       554.873799]
+ [  0.       963.270873 950.035093]
+ [  0.         0.         1.      ]]
+
+Distortion Coefficients:
+[[-0.020841  0.088206 -0.009084  0.007036 -0.068789]]
